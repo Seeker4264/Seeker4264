@@ -4,14 +4,13 @@ Welcome to my GitHub profile!
 I'm a passionate Web Developer and Tech Enthusiast who loves to explore new technologies and create innovative solutions.
 
 ## 🌟 About Me
-- 🚀 **Experience**: 2 years in web development
+- 🚀 **Experience**: 3 years in web development
 - 💡 **Knowledge**:
 -   Front-end development (HTML, CSS, JavaScript, TypeScript, React.js, Next.js)
 -   Back-end development (Node.js, TypeScript, Nest.js)
 -   Databases (SQL, PostgreSQL, Firebase)
 -   Tools (Git, Github, VSCode, Vite)
--   Concepts (REST APIs, MVC Architecture)
-- 📖 **Learning**: Currently diving into AWS, Docker and Kubernetes.
+-   Concepts (REST & GraphQL APIs, MVC Architecture, SCRUM)
 
 ## 🛠️ My Projects
 Here are some of my favorite projects:
